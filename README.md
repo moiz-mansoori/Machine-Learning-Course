@@ -24,7 +24,7 @@ Implemented different types of regression techniques:
 ---
 
 ### 📁 Part 3 - Regression Model Selection in Python
-Covers model comparison and selection using
+Covers model comparison and selection using all regression models
 
 ---
 
