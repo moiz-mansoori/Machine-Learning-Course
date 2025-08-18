@@ -58,11 +58,11 @@ Covered market basket analysis with:
 
 The following parts are available but yet to be explored in-depth:
 
-- 📁 **Part 7:** Reinforcement Learning  
-- 📁 **Part 8:** Natural Language Processing  
-- 📁 **Part 9:** Deep Learning  
-- 📁 **Part 10:** Dimensionality Reduction  
-- 📁 **Part 11:** Model Selection and Boosting  
+- 📁 **Part 7:** Reinforcement Learning.  
+- 📁 **Part 8:** Natural Language Processing.  
+- 📁 **Part 9:** Deep Learning.  
+- 📁 **Part 10:** Dimensionality Reduction.  
+- 📁 **Part 11:** Model Selection and Boosting.  
 
 ---
 
