@@ -54,11 +54,19 @@ Covered market basket analysis with:
 
 ---
 
+---
+
+### 📁 Part 7 -  Reinforcement Learning. 
+
+- **01- Upper Confidence Bound (UCB)**
+- **02 - Thompson Sampling**
+
+---
+
 ## ⏳ In Progress / Upcoming:
 
 The following parts are available but yet to be explored in-depth:
 
-- 📁 **Part 7:** Reinforcement Learning.  
 - 📁 **Part 8:** Natural Language Processing.  
 - 📁 **Part 9:** Deep Learning.  
 - 📁 **Part 10:** Dimensionality Reduction.  
