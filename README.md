@@ -52,7 +52,6 @@ Covered market basket analysis with:
 - **Apriori Algorithm**
 - **Eclat Algorithm**
 
----
 
 ---
 
